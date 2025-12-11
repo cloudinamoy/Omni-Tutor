@@ -1,0 +1,7 @@
+{
+  "name": "Omni-Tutor",
+  "description": "An AI-powered tutor that analyzes handwritten homework to diagnose conceptual errors and provide personalized feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
